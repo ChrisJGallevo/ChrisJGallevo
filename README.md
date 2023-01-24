@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisJGallevo
 - 👀 I’m interested in Data Analytics, Data Science, Product Development, and Software Engineering
-- 🌱 I’m currently learning Google's Data Analytics Professional Certificate on Coursera
+- 🌱 Google Data Analytics Professional Certificate Holder
 - 💞️ I’m looking to collaborate on insightful projects that will enhance my knowledge and help the community
 - 📫 How to reach me: you can email me at chrisgallevo1@gmail.com
 
