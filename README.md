@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrisJGallevo
-- Master's in Business Analytics
+- Master's in Data Analytics
 - 👀 I’m interested in Data Analytics, Data Science, Product Development, and Software Engineering
 - 🌱 Google Data Analytics Professional Certificate Holder
 - 💞️ I’m looking to collaborate on insightful projects that will enhance my knowledge and help the community
